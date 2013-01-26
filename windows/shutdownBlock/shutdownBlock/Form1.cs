@@ -8,6 +8,9 @@ using System.Text;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
+/// <summary>
+/// Shutdown Blcok Sample
+/// </summary>
 namespace shutdownBlock
 {
     public partial class Form1 : Form
